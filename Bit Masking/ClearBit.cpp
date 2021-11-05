@@ -14,5 +14,5 @@ int main(){
 
     clearBit(x ,i);
     cout<<x<<endl;
-    return 0;
+    return 0; 
 }

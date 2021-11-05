@@ -5,7 +5,7 @@ void setIthBit(int &n,int i){
 
 	int mask = (1<<i);
 	n = (n|mask);
-    cout<<n;
+    
 }
 
 int main(){
@@ -15,5 +15,6 @@ int main(){
     cin>>i;
 
     setIthBit(n ,i);
+    cout<<n;
     return 0;
 }
