@@ -1,5 +1,8 @@
 // find a pair of number one from each array whose absolute diff is closest to Zero
-
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
 
 pair<int,int>minDifference(vector<int> a , vector<int>b){
     int n1 = a.size();
