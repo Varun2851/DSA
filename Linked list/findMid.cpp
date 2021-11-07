@@ -1,4 +1,4 @@
- #include<iostream>
+#include<iostream>
 using namespace std;
 
 class node{
@@ -35,57 +35,20 @@ void InsertEnd(node*&head , node*&tail , int data){
 	}
 }
 
-////////////////////////////Deletion///////////////////////////////////
+//////////////////////////Mid without cal.the lenght////////////////////////
 
+node*mid(node*head){
+	if(head==NULL){
+		return head;
+	}
+	node*fast = head->next;
+	node*slow = head;
 
-void DeleteFront(node*&head , node*&tail){
-	if(head == NULL){
-		return;
+	while(fast and fast->next != NULL){
+		fast = fast->next->next;
+		slow = slow->next;
 	}
-	else if(head->next == NULL){
-		delete head;
-		head = tail = NULL;
-	}
-	else{
-		node*n = head;
-		head = head->next;
-		delete n;
-	}
-}
-
-void DeleteEnd(node*&head , node*&tail){
-	if(head == NULL){
-		return;
-	}
-	else if(head->next == NULL){
-		delete head;
-		head = tail = NULL;
-
-	}
-	else{
-		node*temp = head;
-		while(temp->next != tail){
-			temp = temp->next;
-		}
-		delete tail;
-		tail = temp;
-		temp->next = NULL;
-	}
-}
-
-void DeleteMid(node*&head , node*&tail , int pos){
-	if(pos == 0){
-		DeleteFront(head , tail);
-	}
-	else{
-		node *temp = head;
-	    for(int i =1; i<=pos-1; i++){
-	    	temp = temp->next;
-		}
-		node*n = temp->next;
-		temp->next = n->next;
-		delete n;
-	}
+	return slow;
 }
 
 void PrintLL(node*head){
@@ -110,19 +73,19 @@ int main(){
 	InsertFront(head , tail , 2);
 	InsertFront(head , tail , 3);
 	InsertFront(head , tail , 4);
+	InsertFront(head , tail , 5);
+	InsertFront(head , tail , 6);
 
 	PrintLL(head);
 
-	// DeleteFront(head,tail);
-	// PrintLL(head);
+	node *ans = mid(head);
 
-	// DeleteEnd(head , tail);
-	// PrintLL(head);
-
-	DeleteMid(head , tail , 1);
-	PrintLL(head);
-
-	PrintLL(head);
+	if(ans != NULL){
+		cout<<"Mid found :"<<ans->data;
+	}
+	else{
+		cout<<"Mid does not exist"<<endl;
+	}
 
 	return 0;
 }

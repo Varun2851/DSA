@@ -88,6 +88,52 @@ void DeleteMid(node*&head , node*&tail , int pos){
 	}
 }
 
+/////////////////// Length Of Linked List////////////////////////
+
+int length(node *head){
+	int count = 0;
+	while(head){
+		count++;
+		head = head->next;
+	}
+	return count;
+}
+
+int lengthRec(node*head){
+	//base case
+	if(head == NULL){
+		return 0;
+	}
+	// Recursive case
+	return 1+lengthRec(head->next);
+}
+
+///////////////////////////////////Searching/////////////////////
+
+node* Search(node*head,int key){ // keep note on return type of function
+	while(head){
+		if(head->data == key){
+			return head;
+		}
+	    else{
+	    	head = head->next;
+	    }
+	}
+	return NULL;
+}
+
+node*SearchRec(node*head,int key){
+	// base case
+	if(head==NULL){
+		return NULL;
+	}
+	//recursive case
+	if(head->data == key){
+		return head;
+	}
+	return SearchRec(head->next , key);
+}
+
 void PrintLL(node*head){
 	while(head != NULL){
 		cout<<head->data<<"->";
@@ -119,10 +165,35 @@ int main(){
 	// DeleteEnd(head , tail);
 	// PrintLL(head);
 
-	DeleteMid(head , tail , 1);
-	PrintLL(head);
+	// DeleteMid(head , tail , 1);
+	// PrintLL(head);
 
-	PrintLL(head);
+	// PrintLL(head);
+
+	// cout<<length(head);
+	// cout<<endl;
+	// cout<<lengthRec(head);
+
+	node*ans = SearchRec(head , 4);
+	if(ans != NULL){
+		//node found
+		cout<<"Node found :"<<ans->data;
+	}
+	else{
+		cout<<"Node not found"<<endl;
+	}
+
+	cout<<endl;
+
+	ans = Search(head , 9);
+
+	if(ans != NULL){
+		cout<<"Node found :"<<ans->data;
+	}
+	else{
+		cout<<"Node not found";
+	}
+	
 
 	return 0;
 }
