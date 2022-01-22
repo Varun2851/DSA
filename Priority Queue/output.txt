@@ -1,7 +1,10 @@
-Minimum element :1
-1
-2
-3
+
+Silver Medal
+Bronze Medal
 4
 5
+10
+9
+8
+7
 6
