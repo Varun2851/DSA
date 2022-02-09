@@ -41,6 +41,11 @@ node* merge(node*a , node*b){
 		node*c = merge(a->next , b);
 		newhead->next = c;
 	}
+	else{
+            newhead = b;
+            node*c = merge(a, b->next);
+            newhead->next = c;
+        }
 	return newhead;
 }
 
@@ -54,22 +59,22 @@ void PrintLL(node* head) {
 
 int main(){
 
-	#ifndef ONLINE_JUDGE
-	freopen("input.txt", "r", stdin);
-	freopen("output.txt", "w", stdout);
-	#endif
+//	#ifndef ONLINE_JUDGE
+//	freopen("input.txt", "r", stdin);
+//	freopen("output.txt", "w", stdout);
+//	#endif
 
 	node*head = NULL;
 	node*head1 = NULL;
 
 	InsertAtEnd(head , 1);
 	InsertAtEnd(head , 2);
-	InsertAtEnd(head , 3);
+	InsertAtEnd(head , 4);
 	InsertAtEnd(head , 4);
 	InsertAtEnd(head , 5);
-	InsertAtEnd(head1 , 6);
-	InsertAtEnd(head1 , 7);
-	InsertAtEnd(head1 , 8);
+	InsertAtEnd(head1 , 1);
+	InsertAtEnd(head1 , 3);
+	InsertAtEnd(head1 , 4);
 	InsertAtEnd(head1 , 9);
 
 	merge(head , head1);

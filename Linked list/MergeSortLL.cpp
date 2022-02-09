@@ -99,18 +99,18 @@ void PrintLL(node* head) {
 
 int main(){
 
-	#ifndef ONLINE_JUDGE
-	freopen("input.txt", "r", stdin);
-	freopen("output.txt", "w", stdout);
-	#endif
+//	#ifndef ONLINE_JUDGE
+//	freopen("input.txt", "r", stdin);
+//	freopen("output.txt", "w", stdout);
+//	#endif
 
 	node*head = NULL;
 	
-	InsertAtEnd(head , 10);
+	InsertAtEnd(head , 4);
 	InsertAtEnd(head , 2);
-	InsertAtEnd(head , 9);
-	InsertAtEnd(head , 44);
-	InsertAtEnd(head , 5);
+	InsertAtEnd(head , 1);
+	InsertAtEnd(head , 3);
+//	InsertAtEnd(head , 5);
 
 	PrintLL(head);
 
