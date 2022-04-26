@@ -1,4 +1,4 @@
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
 
 int lcs(string s, string t){
@@ -9,16 +9,19 @@ int lcs(string s, string t){
 
 	//recursive case
 	if(s[0] == t[0]){
-		return 1 + max(s.substr(1) , t.substr(1));
+		return 1 + lcs(s.substr(1) , t.substr(1));
 	}
 	else{
 		int x = lcs(s.substr(1),t);
 		int y = lcs(s,t.substr(1));
 		int z = lcs(s.substr(1),t.substr(1));
+        return max(x,max(y,z));
 	}
-	return max(x,max(y,z));
+	
 }
 int main(){
+
+	
 
 	string s;
 	string t;
