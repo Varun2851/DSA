@@ -29,7 +29,7 @@ void InsertMid(node*head , node*tail , int data , int pos){
 	else{
 		node*n = new node(data);
 		node*temp = head;
-		for(int i = 1; i<=pos-1; i++){
+		for(int i = 1; i<pos-1; i++){
 			temp = temp->next;
 		}
 		n->next = temp->next;
@@ -48,10 +48,10 @@ void PrintLL(node*head){
 
 int main(){
 
-	#ifndef ONLINE_JUDGE
-	freopen("input.txt", "r", stdin);
-	freopen("output.txt", "w", stdout);
-	#endif
+//	#ifndef ONLINE_JUDGE
+//	freopen("input.txt", "r", stdin);
+//	freopen("output.txt", "w", stdout);
+//	#endif
 
 	node*head = NULL;
 	node*tail = NULL;
