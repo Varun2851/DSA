@@ -4,7 +4,7 @@ using namespace std;
 void print(int **edges , int n , int sv , bool *visited){
 		//sv = starting vertix
 	cout<<sv<<endl;
-	visited[i] = true;
+	visited[sv] = true;
 	for(int i = 0; i<n; i++){
 		if(i == sv){
 			continue;
@@ -27,6 +27,7 @@ int main(){
 
 	int n; // vertices
  	int e; // edges
+ 	cin>>n>>e;
  	int **edges = new int *[n];
  	for(int i = 0; i<n; i++){
  		edges[i] = new int[n];
@@ -47,8 +48,8 @@ int main(){
  		int first , second;
  		cin>>first>>second;
  		edges[first][second] = 1;
- 		edges[second[first]] = 1;
+ 		edges[second][first] = 1;
  	}
- 	print(edges,n,i,visited);
+ 	print(edges,n,0,visited);
  	return 0;
 }
