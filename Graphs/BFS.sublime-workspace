@@ -1,0 +1,842 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"no",
+				"no_of_nodes"
+			],
+			[
+				"str",
+				"start_index"
+			],
+			[
+				"st",
+				"start_index"
+			],
+			[
+				"s",
+				"string"
+			],
+			[
+				"re",
+				"removeDuplicates"
+			],
+			[
+				"P",
+				"PrintLL"
+			],
+			[
+				"I",
+				"InsertAtEnd"
+			],
+			[
+				"p",
+				"printll"
+			],
+			[
+				"in",
+				"InsertAtEnd"
+			],
+			[
+				"int",
+				"InsertAtEnd"
+			],
+			[
+				"E",
+				"Elementfreq"
+			],
+			[
+				"In",
+				"InsertAtEnd"
+			],
+			[
+				"IN",
+				"InsertAtEnd"
+			],
+			[
+				"m",
+				"multiply"
+			],
+			[
+				"fi",
+				"finaltail"
+			],
+			[
+				"final",
+				"finaltal"
+			],
+			[
+				"fina",
+				"finalhead"
+			],
+			[
+				"head",
+				"head2"
+			],
+			[
+				"inse",
+				"insertback"
+			],
+			[
+				"pri",
+				"PrintLL"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"scr",
+				"source"
+			],
+			[
+				"va",
+				"varun"
+			],
+			[
+				"clo",
+				"clocktiming"
+			],
+			[
+				"de",
+				"decToOctal"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ch",
+				"checkExpression"
+			],
+			[
+				"c",
+				"char"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"ios",
+				"iostream"
+			],
+			[
+				"max",
+				"maxCount"
+			],
+			[
+				"slo",
+				"slots"
+			],
+			[
+				"fre",
+				"freqL"
+			],
+			[
+				"freq",
+				"freqL"
+			],
+			[
+				"su",
+				"subarraySum"
+			],
+			[
+				"ma",
+				"maxsum"
+			],
+			[
+				"min",
+				"min_so_far"
+			],
+			[
+				"star",
+				"startindex"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"fin",
+				"findSubarray"
+			],
+			[
+				"mi",
+				"mindiff"
+			],
+			[
+				"Re",
+				"ReverseStack"
+			],
+			[
+				"pr",
+				"Print"
+			],
+			[
+				"t",
+				"topElement"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"sub",
+				"subarrayMIN"
+			],
+			[
+				"maxp",
+				"maxproduct"
+			],
+			[
+				"b",
+				"Bfs"
+			],
+			[
+				"uno",
+				"unordered_map"
+			],
+			[
+				"n",
+				"no_of_edges"
+			],
+			[
+				"stat",
+				"start_y"
+			],
+			[
+				"new",
+				"newx"
+			],
+			[
+				"gol",
+				"GoldCollectd"
+			],
+			[
+				"fr",
+				"frogJump2"
+			],
+			[
+				"sol",
+				"solve_topdown"
+			],
+			[
+				"so",
+				"solve_topdown"
+			],
+			[
+				"foo",
+				"footer"
+			],
+			[
+				"l",
+				"li"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"footer",
+				"footer-text"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"f",
+				"footer-image"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"col-",
+				"col-lg-6"
+			],
+			[
+				"i",
+				"img"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"boa",
+				"border-radius"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"temp",
+				"tempmin"
+			],
+			[
+				"dow",
+				"Download-button"
+			],
+			[
+				"D",
+				"Download-button"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"fa",
+				"font-family"
+			],
+			[
+				"se",
+				"second"
+			],
+			[
+				"di",
+				"divthree"
+			],
+			[
+				"am",
+				"amount"
+			],
+			[
+				"cho",
+				"chotaAns"
+			],
+			[
+				"cn",
+				"cnt2"
+			],
+			[
+				"cnt",
+				"cnt1"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"total",
+				"total_fuel"
+			],
+			[
+				"bo",
+				"board"
+			],
+			[
+				"var",
+				"varunyadav891"
+			],
+			[
+				"bott",
+				"bottom"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"emp",
+				"temp2"
+			],
+			[
+				"len",
+				"lenghtB"
+			],
+			[
+				"he",
+				"headB"
+			],
+			[
+				"Pro",
+				"productlist"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"it",
+				"Item"
+			],
+			[
+				"to",
+				"time_forSolve"
+			],
+			[
+				"ti",
+				"time_forSolve"
+			],
+			[
+				"ret",
+				"Relative_rank"
+			],
+			[
+				"O",
+				"Diameter_Optimised"
+			],
+			[
+				"Dia",
+				"diameter"
+			],
+			[
+				"dia",
+				"Diameter_Optimised"
+			],
+			[
+				"le",
+				"Left_Height"
+			],
+			[
+				"T",
+				"topViewHelper"
+			],
+			[
+				"top",
+				"topViewHelper"
+			],
+			[
+				"ri",
+				"RightView"
+			],
+			[
+				"S",
+				"Stack"
+			],
+			[
+				"pu",
+				"push"
+			],
+			[
+				"mer",
+				"mergeSort"
+			],
+			[
+				"R",
+				"ReverseLL"
+			],
+			[
+				"u",
+				"ul"
+			],
+			[
+				"Se",
+				"Search"
+			],
+			[
+				"delete",
+				"DeleteMid"
+			],
+			[
+				"dele",
+				"DeleteFront"
+			],
+			[
+				"mid",
+				"left_mid"
+			],
+			[
+				"toe",
+				"tokens"
+			],
+			[
+				"a",
+				"arr_length"
+			],
+			[
+				"cu",
+				"current_leader"
+			],
+			[
+				"L",
+				"largestSubarraySum"
+			],
+			[
+				"la",
+				"largestSubarraySum"
+			],
+			[
+				"Chota",
+				"ChotiAmount"
+			],
+			[
+				"C",
+				"ChotaAns"
+			],
+			[
+				"M",
+				"minSteps"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: dsa"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Programming/DSA/Array/TWOSUM.cpp",
+		"/D/Programming/Hashmaps/input.txt",
+		"/D/Programming/Hashmaps/output.txt",
+		"/D/Programming/Hashmaps/Hasmaps.cpp",
+		"/D/Programming/Graph/graph 1.cpp",
+		"/D/Programming/ProblemOftheDay-GFG-/output.txt",
+		"/D/Programming/ProblemOftheDay-GFG-/input.txt",
+		"/D/Programming/ProblemOftheDay-GFG-/Bfs.cpp",
+		"/D/Programming/DSA/Graphs/BFS.cpp",
+		"/D/Web-Dev/Intro_To_Node/index.js",
+		"/C/Users/varun/Desktop/my-express-server/server.js",
+		"/C/Users/varun/Desktop/my-express-server/package.json",
+		"/D/Web-Dev/Intro_To_Node/package.json",
+		"/D/Programming/ProblemOftheDay-GFG-/Graph.cpp",
+		"/D/Programming/ProblemOftheDay-GFG-/Adjacencylist.cpp",
+		"/D/Programming/DSA/Graphs/floodfill.cpp",
+		"/D/Programming/Graph/floodfill.cpp",
+		"/C/Users/varun/Desktop/test.cpp",
+		"/C/Users/varun/Desktop/my-express-server/package-lock.json",
+		"/D/Programming/ProblemOftheDay-GFG-/FindUnion.cpp",
+		"/D/Programming/ProblemOftheDay-GFG-/RemoveDuplicates2.cpp",
+		"/D/Programming/ProblemOftheDay-GFG-/FindLargest.cpp",
+		"/D/Programming/ProblemOftheDay-GFG-/StringWindow.cpp",
+		"/D/Programming/ProblemOftheDay-GFG-/fruits.cpp",
+		"/C/Users/varun/Desktop/test1.c",
+		"/C/Users/varun/Desktop/text.txt",
+		"/C/Users/varun/Desktop/Untitled1.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/SortArrayByFrequency/test.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Linked List/SplitCircularLinkedlist.cpp",
+		"/D/Programming/DSA/Array/longestSubsequencewithLimitedSum.cpp",
+		"/D/Programming/DSA/Array/NumberSmallerthanCurrentNumber.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Stack & Queues/RemovingStarsfromString.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Stack & Queues/RemovingDuplicates.cpp",
+		"/D/Programming/DSA/Array/MinimuMinutes.cpp",
+		"/C/Users/varun/Desktop/output.in",
+		"/C/Users/varun/Desktop/input.in",
+		"/C/Users/varun/Desktop/Sliding widow.txt",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Sliding Window/SubarrayProductLessthanK.cpp",
+		"/D/Web-Dev/Drum Kit Completed/Drum Kit Completed/index.js",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Linked List/MergeTwoLL.cpp",
+		"/D/Web-Dev/Drum Kit Completed/Drum Kit Completed/index.html",
+		"/D/Web-Dev/Drum Kit Completed/Drum Kit Completed/styles.css",
+		"/C/Users/varun/Desktop/output.txt",
+		"/C/Users/varun/Desktop/input.txt",
+		"/D/Js-Projects/Pig Game/project.js",
+		"/D/Js-Projects/Pig Game/style.css",
+		"/D/Js-Projects/Pig Game/index.html",
+		"/C/Users/varun/Desktop/Drum Kit Completed/Drum Kit Completed/index.html",
+		"/C/Users/varun/Desktop/Drum Kit Starting Files/Drum Kit Starting Files/styles.css",
+		"/C/Users/varun/Desktop/Drum Kit Completed/Drum Kit Completed/index.js",
+		"/C/Users/varun/Desktop/Drum Kit Starting Files/Drum Kit Starting Files/index.html",
+		"/C/Users/varun/Desktop/Drum Kit Starting Files/Drum Kit Starting Files/index.js",
+		"/C/Users/varun/Desktop/Dicee Challenge - Completed/Dicee Challenge - Completed/index.js",
+		"/C/Users/varun/Desktop/Dicee Challenge - Completed/Dicee Challenge - Completed/styles.css",
+		"/C/Users/varun/Desktop/Dicee Challenge - Completed/Dicee Challenge - Completed/dicee.html",
+		"/C/Users/varun/Desktop/Dicee Challenge - Completed.zip",
+		"/D/Web-Dev/DOM/Date.html",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Binary Search/PeakElement.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Binary Search/Kth_Smallest_Element.cpp",
+		"/D/College Stuff/DSA LAB/Assignment1.cpp",
+		"/D/College Stuff/DSA LAB/Assignment.cpp",
+		"/D/College Stuff/DSA LAB/Assignment2.cpp",
+		"/D/College Stuff/DSA LAB/test.cpp",
+		"/D/Web-Dev/DOM/Dom.html",
+		"/D/Web-Dev/DOM/Dom1.html",
+		"/D/Web-Dev/DOM/Css_In_javascript.html",
+		"/D/Web-Dev/DOM/PagePrint.html",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Stack & Queues/EvaluateExpression.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Stack & Queues/StackUsingVector.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Stack & Queues/StackUsingLL.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Stack & Queues/ReverseAStack.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Stack & Queues/ReduntantExpression.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Stack & Queues/RemoveKdigits.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Greedy/Maximize_Sum_afterK_negations.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Greedy/FindSmallestnumber.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Greedy/Partitionslevel.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Greedy/FindMaximumSum.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Greedy/MaximumSumofAbsoluteDifference.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Greedy/Smallest_Subset_with_Sum.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Greedy/Test.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Greedy/MaximumTrains.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Greedy/JobSequencing.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Microsoft Interview Questions/Reverse_Words_in_string.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Microsoft Interview Questions/largestNumber.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Microsoft Interview Questions/MaximumNumberByInserting.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Microsoft Interview Questions/LowerUpper.cpp",
+		"/D/Practice/MaxSumSubarray.cpp",
+		"/D/Practice/PrefixSum.cpp",
+		"/D/Programming/DSA/Array/CountSmallerNumber.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Sorting and Searching/MergeSort.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Greedy/MinimumNoOf_Plateforms.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Greedy/BuyStocks.cpp",
+		"/C/Users/varun/Desktop/test1.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Sorting and Searching/output.txt",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Sorting and Searching/input.txt",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/String Questions/FruitintoBasket.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/String Questions/MinimumStringWindow.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/String Questions/MinimumSizeSubarraySum.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/String Questions/MaximumSizeSubarray.cpp",
+		"/C/Users/varun/Desktop/dquery_spoj.cpp",
+		"/D/Practice/mergeintervals.cpp",
+		"/D/Programming/CSES-ProblemSet/Maxlen.cpp",
+		"/D/Programming/CSES-ProblemSet/IncreasingArray.cpp",
+		"/D/Programming/CSES-ProblemSet/Permutation.cpp",
+		"/D/LeetCode/ArrayIncreasing.cpp",
+		"/D/LeetCode/MaximumProduct.cpp",
+		"/D/LeetCode/MinimumScoreFromRemovingStones.cpp",
+		"/D/LeetCode/MinimumAmountoftimetoFillCup.cpp",
+		"/D/Project Work/Yuvraj Lubs/Style.css",
+		"/D/Project Work/Yuvraj Lubs/index.html",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Sorting and Searching/Minimum_number_of_ballons.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Sorting and Searching/PrintAllSubarray.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Sorting and Searching/SubarraySumequalK.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Sorting and Searching/ContiguousArray.cpp",
+		"/C/Users/varun/AppData/Roaming/Sublime Text 3/Packages/User/main.sublime-snippet",
+		"/C/Users/varun/AppData/Roaming/Sublime Text 3/Packages/User/main.cpp",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Sorting and Searching/input.txt.txt",
+		"/D/Practice/output.txt",
+		"/D/Practice/input.txt",
+		"/D/Programming/DSA/Array/ContiguousArray.cpp",
+		"/D/Web-Dev/DOM/index.js",
+		"/D/Web-Dev/DOM/Style.css",
+		"/D/Web-Dev/DOM/index.html",
+		"/D/Programming/DSA_SHEET_BY_SHRADHA/Sorting and Searching/PermuteArrays.cpp",
+		"/D/LeetCode/Min_Diff_Pair.cpp",
+		"/D/LeetCode/WiggleSubsequence.cpp",
+		"/D/Practice/ReverseAStack.cpp",
+		"/D/LeetCode/MaximumCut.cpp"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "BFS.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
