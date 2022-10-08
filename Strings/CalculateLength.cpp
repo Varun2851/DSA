@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-int length(char *a){
+int length1(char *a){
 	int i;
 	int cnt = 0;
 	for(i = 0 ; a[i] != '\0' ; i++){
@@ -19,7 +19,7 @@ int main(){
 
 	char a[100];
 	cin>>a;
-	cout<<length(a);
+	cout<<length1(a);
 
 	return 0;
 }
